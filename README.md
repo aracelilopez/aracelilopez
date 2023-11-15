@@ -1,6 +1,6 @@
 <h1 align="center">Hey 😊, I'm Araceli</h1>
 <div align="center">
-  <img src="https://ibb.co/d0K0CHD" width="600" height="300"/>
+  <img src="https://ibb.co/d0K0CHD" width="300" height="300"/>
 </div>
 <h3 align="left">I am passionate and curious about cybersecurity and programming 💻. My love for technology goes beyond code; I enjoy exploring new advancements and sharing that knowledge to make the web a safer place. 🚀✨</h3>
 
