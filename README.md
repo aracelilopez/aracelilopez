@@ -1,6 +1,6 @@
 <h1 align="center">Hey 😊, I'm Araceli</h1>
 <div align="center">
-  <img src="https://www.canva.com/design/DAF0PkVSr50/5Ls2lJWd_qS9FcEeIgSihQ/view?utm_content=DAF0PkVSr50&utm_campaign=designshare&utm_medium=link&utm_source=viewer" width="600" height="300"/>
+  <img src="https://www.canva.com/design/DAF0PkVSr50/5Ls2lJWd_qS9FcEeIgSihQ/view?utm_content=DAF0PkVSr50&utm_campaign=designshare&utm_medium=link&utm_source=viewer" width="600" height="600"/>
 </div>
 <h3 align="left">I am passionate and curious about cybersecurity and programming 💻. My love for technology goes beyond code; I enjoy exploring new advancements and sharing that knowledge to make the web a safer place. 🚀✨</h3>
 
