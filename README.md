@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm xxx</h1>
 <h3 align="center">xxxxxxxxxxxxxxxxxxxxxxxxxxx</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xxxxxxxxxxxx&label=Profile%20views&color=0e75b6&style=flat" alt="xxxxxxxxxxxx" /> </p>
-
 <div align="center">
-  <img src="https://giphy.com/gifs/funny-mama-hacker-137EaR4vAOCn1S" width="600" height="300"/>
+  <img src="https://giphy.com/gifs/cyberwar-2hVtjMokJP84M" width="600" height="300"/>
 </div>
 
 - 📚 I’m currently learning **Cloud Security, Kubernetes and more...**
