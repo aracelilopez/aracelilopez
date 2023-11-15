@@ -2,7 +2,7 @@
 <h3 align="center">xxxxxxxxxxxxxxxxxxxxxxxxxxx</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/2hVtjMokJP84M/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="600" height="300"/>
 </div>
 
 - 📚 I’m currently learning **Cloud Security, Kubernetes and more...**
