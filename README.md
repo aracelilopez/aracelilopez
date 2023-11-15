@@ -1,5 +1,5 @@
-<h1 align="center">Hi 😊, I'm Araceli</h1>
-<h3 align="center">passionate about cybersecurity and programming 💻. My love for technology goes beyond codes; I enjoy exploring new advancements and sharing that knowledge to make the web a safer place. 🚀✨</h3>
+<h1 align="center">Hey 😊, I'm Araceli</h1>
+<h3 align="left">I am passionate and curious about cybersecurity and programming 💻. My love for technology goes beyond codes; I enjoy exploring new advancements and sharing that knowledge to make the web a safer place. 🚀✨</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="600" height="300"/>
