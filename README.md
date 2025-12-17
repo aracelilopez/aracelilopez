@@ -12,6 +12,9 @@
 - 😄 Pronouns **she/her**
 
 <div align="center">
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=253973" style='border:none;'></iframe>
+</div>
+<div align="center">
   <img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="600" height="300"/>
 </div>
 
